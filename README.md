@@ -4,9 +4,7 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **[CodeOverflow](https://github.com/jaryan728/CodeOverflow)**
-- 🌱 Learning **Next.js, Backend Development & System Design**
-- 💬 Ask me about **Full Stack Development, React, Express.js, DSA**
+- 🌱 Learning **Ai and Development**
 - 📫 Reach me at **[jaryan728@gmail.com](mailto:jaryan728@gmail.com)**
 - ⚡ Fun fact: **I’m lazy to commit but love to code!** 😆
 
